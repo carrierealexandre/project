@@ -1,2 +1,2 @@
-$MyWebApp
-This is my fisrt project.
+$MyWebApp;
+('This is my new web app')
