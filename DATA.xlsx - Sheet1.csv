@@ -1,0 +1,45 @@
+ID,Date,FLT,Type,Reg,Pic,Sic,CUSTOMER,Status,occurance,code,Total A/T,From,to,T/O,Land,PAX,A/T
+1,14-Nov-19,12,C208B,C-FYMK,Villeneuve,McGuigan,Gina Owen,Cancelled,Dlyd,,1.8,CYRL,CPV7,14:00,14:45,4,0.8
+2,14-Nov-19,2,C182,C-GLGQ,Campbell,,Tikinagan,Cancelled,Cxl,Wx,0,CYRL,CPV8,14:33,15:31,3,0.6
+3,14-Nov-19,6,C208B,C-FAMK,McGuigan,,LTL Contracting,Cancelled,Cxl,Wx,0,CYRL,CPV9,17:24,18:19,9,0.6
+4,14-Nov-19,1,PA31,C-GAJW,Cormier,Campbell,MNR N/F,Cancelled,Dlyd,Wx,0,CYRL,CPV10,22:42,23:09,9,0
+5,14-Nov-19,9,C208B,C-FYMK,Villeneuve,,Tikinagan,Cancelled,Cxl,Wx,0,CYRL,CYPM,13:02,13:36,6,0.3
+6,14-Nov-19,3,C208B,C-FYMK,Villeneuve,,Stella Meekis,Cancelled,Cxl,Wx,0,CYRL,CYVZ,14:07,14:36,Cargo,0.3
+7,14-Nov-19,8,C208B,C-FYMK,Villeneuve,McGuigan,Tikinagan,Cancelled,,Mtce,2.4,CYRL,CYAC,19:55,20:32,Empty,0.4
+8,14-Nov-19,11,C208B,C-FYMK,Villeneuve,,NSA,Cancelled,Cxl,Wx,0,CYRL,CKQ3,19:49,20:11,Cargo,0.2
+9,14-Nov-19,7,C208B,C-FAMK,Berezynskyj,McGuigan,Thomas Tookata,Cancelled,Cxl,Rbk,0,CYRL,CKQ3,21:34,22:55,3,1.4
+10,14-Nov-19,4,C208B,C-FYMK,Villeneuve,McGuigan,Frank Rae,Cancelled,,,0.3,CYPM,CYRL,16:26,16:47,1,0.4
+11,14-Nov-19,10,C208B,C-FYMK,Villeneuve,,Tikinagan,Cancelled,Cxl,Wx,0,CYRL,CYPM,19:49,20:11,Empty,0.4
+12,14-Nov-19,13,PA31,C-GAJW,Cormier,Campbell,GARY OWEN,Cancelled,,NC,0,CYRL,CPV7,21:34,22:55,2,1.4
+13,15-Nov-19,11,C208B,C-FAMK,Rickli,,ADOW,Completed,,,1.8,CYRL,CZSJ,14:33,15:31,Cargo,1
+14,15-Nov-19,1,C208B,C-FAMK,Rickli,,ADOW,Completed,,,1.7,CYRL,CZSJ,17:24,18:19,Cargo,0.9
+15,15-Nov-19,5,C208B,C-FAMK,Rickli,,ROCKY LANDON,Completed,,,1,CYRL,CPV7,22:42,23:09,2,0.5
+16,15-Nov-19,8,C208B,C-FAMK,Carriere,,RUTH W.,Completed,,,1,CYRL,CPV7,13:02,13:36,7,0.5
+17,15-Nov-19,14,C208B,C-FYMK,McGuigan,,LILLIAN K.,Completed,,,0.8,CYRL,CYPM,14:07,14:36,Cargo,0.5
+18,15-Nov-19,15,C208B,C-FYMK,McGuigan,,NWI,Completed,,,2.8,CYRL,CNE3,16:05,17:34,3,1.5
+19,15-Nov-19,7,C208B,C-FYMK,McGuigan,,YPM ED. AUTH,Completed,,,0.8,CYRL,CYPM,19:49,20:11,Cargo,0.4
+20,15-Nov-19,16,C208B,C-FYMK,Villeneuve,McGuigan,NWI,Completed,,,2.8,CYRL,CNE3,21:34,22:55,Empty,1.4
+21,15-Nov-19,9,PA31,C-GAJW,Cormier,Damphousse,TIKINAGAN,Completed,Dlyd,Mtce,0.9,CYRL,CYPM,16:26,16:47,1,0.3
+22,15-Nov-19,2,C208B,C-FAMK,Rickli,,PV7 ON. WORKS,Completed,,,1,CYRL,CPV7,20:26,20:54,5,0.5
+23,15-Nov-19,12,PA31,C-GAJW,Cormier,Damphousse,SONYA MOOSE,Cancelled,Cxl,Ops,0,CYRL,CYPM,,,5,0
+24,15-Nov-19,6,PA31,C-GAJW,Cormier,Damphousse,YPM. F.N.,Completed,,,0.6,CYRL,CYPM,21:43,22:03,4,0.3
+25,15-Nov-19,13,C182,C-GLGQ,Campbell,,KQ3 ED. AUTH,Completed,Dlyd,Ops,1.5,CYRL,CKQ3,15:49,16:35,Cargo,0.8
+26,15-Nov-19,17,C182,C-GLGQ,Campbell,,MICHELLE STRANG,Completed,,,0.8,CYRL,CYPM,20:47,21:11,1,0.4
+27,15-Nov-19,18,C182,C-GLGQ,Mclenaghan,,SAL,Completed,,,0.8,CYRL,CYRL,18:12,19:00,1,0.8
+28,16-Nov-19,7,C208B,C-FAMK,McGuigan,,NORTH STAR,Completed,,,0.9,CYRL,CPV7,13:57,14:24,Cargo,0.4
+29,16-Nov-19,5,C208B,C-FYMK,Ward,,T.TOOKATA,Completed,,,1.3,CYRL,CKQ3,15:04,15:36,3,0.5
+30,16-Nov-19,1,C208B,C-FAMK,McGuigan,,ADOW,Cancelled,Cxl,Rbk,0,CYRL,CZSJ,17:02,17:45,Cargo,0.7
+31,16-Nov-19,8,PA31,C-GAJW,L'Italien,Turner,BRUCE RAE,Cancelled,Cxl,Wx,0,CYRL,CYVZ,16:52,17:36,Cargo,0.7
+32,16-Nov-19,4,C208B,C-FAMK,McGuigan,,MANTARIO CONT,Completed,Earl,,0.7,CYRL,CYPM,16:17,16:36,Empty,0.3
+33,16-Nov-19,3,C208B,C-FAMK,Berezynskyj,,D.LEIGHTON,Cancelled,Cxl,Rbk,0,CYRL,CPV7,17:02,17:45,1,0.8
+34,16-Nov-19,6,C208B,C-FAMK,Berezynskyj,,NORTH STAR,Cancelled,,Wx,0,CYRL,CKQ3,16:52,17:36,Cargo,0.5
+35,16-Nov-19,10,C182,C-GLGQ,Campbell,,JACOB STRANG,Completed,,,1.2,CYRL,CPV7,15:16,15:47,1,0.5
+36,16-Nov-19,11,PA31,C-GAJW,L'Italien,Turner,RON SUGGASHIE,Cancelled,Cxl,Wx,0,CYRL,CYPM,16:52,17:36,3,0.8
+37,17-Nov-19,#6,C208B,C-FAMK,Ward,,NORTH STAR,Completed,Dlyd,Wx,1.3,CYRL,CKQ3,16:48,17:28,Cargo,0.7
+38,17-Nov-19,#7,C208B,C-FYMK,Berezynskyj,,STELLA MEEKIS,Completed,Dlyd,Wx,1.3,CYRL,CYVZ,17:02,17:45,Cargo,0.7
+39,17-Nov-19,#5,PA31,C-GAJW,Cormier,Turner,BRUCE RAE,Completed,,,1.4,CYRL,CYVZ,16:52,17:36,Cargo,0.7
+40,17-Nov-19,#1,C208B,C-FAMK,McGuigan,,MING REST,Completed,,,0.7,CYRL,CYPM,19:11,19:34,Cargo,0.4
+41,17-Nov-19,2,C208B,C-FAMK,McGuigan,,SMITH KEEPER,Completed,,,0.6,CYRL,CYPM,21:35,21:56,2,0.3
+42,17-Nov-19,#3,C208B,C-FYMK,Berezynskyj,,D.LEIGHTON,Completed,,,1,CYRL,CPV7,17:02,17:45,2,0.5
+43,17-Nov-19,#4,PA31,C-GAJW,Cormier,Turner,KYLE PETERS,Completed,,,0.6,CYRL,CYPM,16:52,17:36,3,0.3
+44,17-Nov-19,8,C182,C-GLGQ,Campbell,,GARY OWEN,Completed,,,1.1,CYRL,CPV7,19:56,20:30,1,0.6
